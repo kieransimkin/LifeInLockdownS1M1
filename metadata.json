@@ -63,7 +63,7 @@
 			},
 			"LifeInLockdownS1M1P5": {
 				"id": 5,
-				"name": "LifeInLockdownS1M1P5 - View from Peacehaven towards Saltdean",
+				"name": "LifeInLockdownS1M1P5 - View from Peacehaven",
 				"description": "Taken: 2020-04-16 (20:01) - 5 Minted",
 				"sha256": "746bc69e18407ff6977508d99af4b9f64ae2850cd6fa1002801eb72ab8626d65",
 				"type": "image",
@@ -123,7 +123,7 @@
 			},
 			"LifeInLockdownS1M1P9": {
 				"id": 9,
-				"name": "LifeInLockdownS1M1P9 - My car outside the pizza shop",
+				"name": "LifeInLockdownS1M1P9 - My car",
 				"description": "Taken: 2020-05-13 (20:15) - 3 Minted",
 				"sha256": "e1ab5558e0cefc0cb7276415fb0eb7a2a6d7afc7e6f4facbefba84e706032779",
 				"type": "image",
@@ -138,7 +138,7 @@
 			},
 			"LifeInLockdownS1M1P10": {
 				"id": 10,
-				"name": "LifeInLockdownS1M1P10 - Upturned shopping trolley in the supermarket car park",
+				"name": "LifeInLockdownS1M1P10 - Upturned shopping trolley",
 				"description": "Taken: 2020-04-07 (22:28) - 1 Minted",
 				"sha256": "6e3fd272b7c6bd34787ca85caea06e36e6959bda7c5f6c7c4348338aeca440ae",
 				"type": "image",
